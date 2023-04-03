@@ -10,4 +10,4 @@ So why settle for the same old Minecraft fishing experience when you can elevate
 
 Buy me a pizza for my hard work
 
-https://www.buymeacoffee.com/quits123<img width="545" alt="yellow-button" src="https://user-images.githubusercontent.com/101621482/229427643-b13effa0-1d96-40aa-8461-da0e2b8929b9.png">
+<img width="545" alt="yellow-button" href="https://www.buymeacoffee.com/quits123" src="https://user-images.githubusercontent.com/101621482/229427643-b13effa0-1d96-40aa-8461-da0e2b8929b9.png">
